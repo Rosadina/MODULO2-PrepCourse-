@@ -1,2 +1,2 @@
 # MODULO2-PrepCourse
-Repositorio prueba desde la nube 
+Este repositorio es una prueba de como crear repositorio desde la nube
